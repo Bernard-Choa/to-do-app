@@ -65,7 +65,7 @@ function App() {
     <div className="App">
       
       <br /><br />
-      <h2>To Do List App (ReactJS)</h2>
+      <h2>Simple To Do List</h2>
       <br /><br />
 
       
@@ -114,9 +114,6 @@ function App() {
           <br />
         </>
       )}
-      
-       
-
       
 
       {/* Display ToDos */}
